@@ -1,0 +1,19 @@
+
+
+
+**.persistence round 1 interview question:-
+
+1. Introduction 
+2. Explain project.
+3. Your Responsibility in your project, explain all modules in project.
+4. How you implements Spring Security in your project?
+5. What is Spring Concurrenacy?
+6. What is JPA? elaborate more about JPA?
+7. What is use of @EnableAutoConfiguration?
+8. Spring Profile explain?
+9. How to exclude any configuration from your application?
+10. Do you work on Multithreded Environment?
+11. what are the generation types in JPA? (@GeneratedValue(strategy = GenerationType.AUTO)
+12. code:- find 3rd largest element from list of integers.
+13. code:- input:-"aabbbccb"
+           output:-a2b3c2b1
